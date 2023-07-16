@@ -9,7 +9,7 @@ Objectives:
 # DashBoard
 ![2023-07-16](https://github.com/hrishabh08/Superstore-Data-Analysis/assets/76394992/7f540429-4b78-49f0-a745-464045fdd8dc)
 
-# 5.Total observation from EDA
+# Total observation from EDA
 #### What are total sales and profit?
 * Total Sales = 2,296,195.56 USD
 * Total Profit = 286,241.42 USD
